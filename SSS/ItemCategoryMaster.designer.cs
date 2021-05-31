@@ -1,0 +1,736 @@
+﻿namespace SSS
+{
+    partial class ItemCategoryMaster
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.components = new System.ComponentModel.Container();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle4 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle5 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle6 = new System.Windows.Forms.DataGridViewCellStyle();
+            this.panColor = new System.Windows.Forms.Panel();
+            this.panel3 = new System.Windows.Forms.Panel();
+            this.btnSearch = new System.Windows.Forms.Button();
+            this.btnDelete = new System.Windows.Forms.Button();
+            this.btnEdit = new System.Windows.Forms.Button();
+            this.btnCancel = new System.Windows.Forms.Button();
+            this.btnAdd = new System.Windows.Forms.Button();
+            this.panSearch = new System.Windows.Forms.Panel();
+            this.label2 = new System.Windows.Forms.Label();
+            this.txtSearch = new System.Windows.Forms.TextBox();
+            this.label3 = new System.Windows.Forms.Label();
+            this.panel5 = new System.Windows.Forms.Panel();
+            this.txtDate = new System.Windows.Forms.MaskedTextBox();
+            this.label9 = new System.Windows.Forms.Label();
+            this.txtMargin = new System.Windows.Forms.TextBox();
+            this.label8 = new System.Windows.Forms.Label();
+            this.txtDisPer = new System.Windows.Forms.TextBox();
+            this.label7 = new System.Windows.Forms.Label();
+            this.label5 = new System.Windows.Forms.Label();
+            this.txtToRange = new System.Windows.Forms.TextBox();
+            this.txtFromRange = new System.Windows.Forms.TextBox();
+            this.label4 = new System.Windows.Forms.Label();
+            this.label6 = new System.Windows.Forms.Label();
+            this.lblId = new System.Windows.Forms.Label();
+            this.txtName = new System.Windows.Forms.TextBox();
+            this.label1 = new System.Windows.Forms.Label();
+            this.lblMsg = new System.Windows.Forms.Label();
+            this.pangrid = new System.Windows.Forms.Panel();
+            this.dgrdName = new System.Windows.Forms.DataGridView();
+            this.id = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.categoryName = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.fromRange = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.toRange = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.disPer = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.margin = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.date = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.createdBy = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.updatedBy = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.errorname = new System.Windows.Forms.ErrorProvider(this.components);
+            this.dataGridViewTextBoxColumn1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.dataGridViewTextBoxColumn2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.panHeader = new System.Windows.Forms.Panel();
+            this.lblNameHeader = new System.Windows.Forms.Label();
+            this.lblCreatedBy = new System.Windows.Forms.LinkLabel();
+            this.panColor.SuspendLayout();
+            this.panel3.SuspendLayout();
+            this.panSearch.SuspendLayout();
+            this.panel5.SuspendLayout();
+            this.pangrid.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dgrdName)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.errorname)).BeginInit();
+            this.panHeader.SuspendLayout();
+            this.SuspendLayout();
+            // 
+            // panColor
+            // 
+            this.panColor.BackColor = System.Drawing.Color.White;
+            this.panColor.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.panColor.Controls.Add(this.panel3);
+            this.panColor.Controls.Add(this.panSearch);
+            this.panColor.Controls.Add(this.panel5);
+            this.panColor.Controls.Add(this.pangrid);
+            this.panColor.Location = new System.Drawing.Point(23, 84);
+            this.panColor.Margin = new System.Windows.Forms.Padding(4);
+            this.panColor.Name = "panColor";
+            this.panColor.Size = new System.Drawing.Size(973, 545);
+            this.panColor.TabIndex = 93;
+            this.panColor.TabStop = true;
+            // 
+            // panel3
+            // 
+            this.panel3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.panel3.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.panel3.Controls.Add(this.btnSearch);
+            this.panel3.Controls.Add(this.btnDelete);
+            this.panel3.Controls.Add(this.btnEdit);
+            this.panel3.Controls.Add(this.btnCancel);
+            this.panel3.Controls.Add(this.btnAdd);
+            this.panel3.Location = new System.Drawing.Point(17, 471);
+            this.panel3.Margin = new System.Windows.Forms.Padding(4);
+            this.panel3.Name = "panel3";
+            this.panel3.Size = new System.Drawing.Size(452, 58);
+            this.panel3.TabIndex = 108;
+            this.panel3.TabStop = true;
+            // 
+            // btnSearch
+            // 
+            this.btnSearch.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(185)))), ((int)(((byte)(30)))), ((int)(((byte)(12)))));
+            this.btnSearch.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Bold);
+            this.btnSearch.ForeColor = System.Drawing.Color.White;
+            this.btnSearch.Location = new System.Drawing.Point(187, 10);
+            this.btnSearch.Margin = new System.Windows.Forms.Padding(4);
+            this.btnSearch.Name = "btnSearch";
+            this.btnSearch.Size = new System.Drawing.Size(90, 35);
+            this.btnSearch.TabIndex = 111;
+            this.btnSearch.Text = "Sea&rch";
+            this.btnSearch.UseVisualStyleBackColor = false;
+            this.btnSearch.Click += new System.EventHandler(this.tsbtnSearch_Click);
+            // 
+            // btnDelete
+            // 
+            this.btnDelete.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(185)))), ((int)(((byte)(30)))), ((int)(((byte)(12)))));
+            this.btnDelete.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Bold);
+            this.btnDelete.ForeColor = System.Drawing.Color.White;
+            this.btnDelete.Location = new System.Drawing.Point(274, 10);
+            this.btnDelete.Margin = new System.Windows.Forms.Padding(4);
+            this.btnDelete.Name = "btnDelete";
+            this.btnDelete.Size = new System.Drawing.Size(87, 35);
+            this.btnDelete.TabIndex = 112;
+            this.btnDelete.Text = "&Delete";
+            this.btnDelete.UseVisualStyleBackColor = false;
+            this.btnDelete.Click += new System.EventHandler(this.btnDelete_Click);
+            // 
+            // btnEdit
+            // 
+            this.btnEdit.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(185)))), ((int)(((byte)(30)))), ((int)(((byte)(12)))));
+            this.btnEdit.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Bold);
+            this.btnEdit.ForeColor = System.Drawing.Color.White;
+            this.btnEdit.Location = new System.Drawing.Point(96, 10);
+            this.btnEdit.Margin = new System.Windows.Forms.Padding(4);
+            this.btnEdit.Name = "btnEdit";
+            this.btnEdit.Size = new System.Drawing.Size(90, 35);
+            this.btnEdit.TabIndex = 110;
+            this.btnEdit.Text = "&Edit";
+            this.btnEdit.UseVisualStyleBackColor = false;
+            this.btnEdit.Click += new System.EventHandler(this.btnEdit_Click);
+            // 
+            // btnCancel
+            // 
+            this.btnCancel.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(185)))), ((int)(((byte)(30)))), ((int)(((byte)(12)))));
+            this.btnCancel.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Bold);
+            this.btnCancel.ForeColor = System.Drawing.Color.White;
+            this.btnCancel.Location = new System.Drawing.Point(361, 10);
+            this.btnCancel.Margin = new System.Windows.Forms.Padding(4);
+            this.btnCancel.Name = "btnCancel";
+            this.btnCancel.Size = new System.Drawing.Size(79, 35);
+            this.btnCancel.TabIndex = 113;
+            this.btnCancel.Text = "&Close";
+            this.btnCancel.UseVisualStyleBackColor = false;
+            this.btnCancel.Click += new System.EventHandler(this.tsbtnClose_Click);
+            // 
+            // btnAdd
+            // 
+            this.btnAdd.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(185)))), ((int)(((byte)(30)))), ((int)(((byte)(12)))));
+            this.btnAdd.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Bold);
+            this.btnAdd.ForeColor = System.Drawing.Color.White;
+            this.btnAdd.Location = new System.Drawing.Point(7, 10);
+            this.btnAdd.Margin = new System.Windows.Forms.Padding(4);
+            this.btnAdd.Name = "btnAdd";
+            this.btnAdd.Size = new System.Drawing.Size(88, 35);
+            this.btnAdd.TabIndex = 109;
+            this.btnAdd.Text = "&Add";
+            this.btnAdd.UseVisualStyleBackColor = false;
+            this.btnAdd.Click += new System.EventHandler(this.btnAdd_Click);
+            // 
+            // panSearch
+            // 
+            this.panSearch.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.panSearch.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.panSearch.Controls.Add(this.label2);
+            this.panSearch.Controls.Add(this.txtSearch);
+            this.panSearch.Controls.Add(this.label3);
+            this.panSearch.Location = new System.Drawing.Point(481, 20);
+            this.panSearch.Margin = new System.Windows.Forms.Padding(4);
+            this.panSearch.Name = "panSearch";
+            this.panSearch.Size = new System.Drawing.Size(473, 43);
+            this.panSearch.TabIndex = 94;
+            this.panSearch.TabStop = true;
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(68, 64);
+            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(0, 16);
+            this.label2.TabIndex = 6;
+            this.label2.Visible = false;
+            // 
+            // txtSearch
+            // 
+            this.txtSearch.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper;
+            this.txtSearch.Font = new System.Drawing.Font("Arial", 10F);
+            this.txtSearch.Location = new System.Drawing.Point(145, 8);
+            this.txtSearch.Margin = new System.Windows.Forms.Padding(4);
+            this.txtSearch.MaxLength = 40;
+            this.txtSearch.Name = "txtSearch";
+            this.txtSearch.Size = new System.Drawing.Size(311, 23);
+            this.txtSearch.TabIndex = 95;
+            this.txtSearch.TextChanged += new System.EventHandler(this.txtSearch_TextChanged);
+            this.txtSearch.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txtSearch_KeyDown);
+            this.txtSearch.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtSearch_KeyPress);
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Bold);
+            this.label3.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.label3.Location = new System.Drawing.Point(10, 12);
+            this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(132, 16);
+            this.label3.TabIndex = 1;
+            this.label3.Text = "Search Category :";
+            // 
+            // panel5
+            // 
+            this.panel5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.panel5.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.panel5.Controls.Add(this.txtDate);
+            this.panel5.Controls.Add(this.label9);
+            this.panel5.Controls.Add(this.txtMargin);
+            this.panel5.Controls.Add(this.label8);
+            this.panel5.Controls.Add(this.txtDisPer);
+            this.panel5.Controls.Add(this.label7);
+            this.panel5.Controls.Add(this.label5);
+            this.panel5.Controls.Add(this.txtToRange);
+            this.panel5.Controls.Add(this.txtFromRange);
+            this.panel5.Controls.Add(this.label4);
+            this.panel5.Controls.Add(this.label6);
+            this.panel5.Controls.Add(this.lblId);
+            this.panel5.Controls.Add(this.txtName);
+            this.panel5.Controls.Add(this.label1);
+            this.panel5.Controls.Add(this.lblMsg);
+            this.panel5.Location = new System.Drawing.Point(17, 20);
+            this.panel5.Margin = new System.Windows.Forms.Padding(4);
+            this.panel5.Name = "panel5";
+            this.panel5.Size = new System.Drawing.Size(450, 446);
+            this.panel5.TabIndex = 98;
+            this.panel5.TabStop = true;
+            // 
+            // txtDate
+            // 
+            this.txtDate.Font = new System.Drawing.Font("Arial", 10F);
+            this.txtDate.Location = new System.Drawing.Point(141, 130);
+            this.txtDate.Mask = "00/00/0000";
+            this.txtDate.Name = "txtDate";
+            this.txtDate.Size = new System.Drawing.Size(93, 23);
+            this.txtDate.TabIndex = 107;
+            this.txtDate.Enter += new System.EventHandler(this.txtDate_Enter);
+            this.txtDate.Leave += new System.EventHandler(this.txtDate_Leave);
+            // 
+            // label9
+            // 
+            this.label9.AutoSize = true;
+            this.label9.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Bold);
+            this.label9.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.label9.Location = new System.Drawing.Point(89, 133);
+            this.label9.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label9.Name = "label9";
+            this.label9.Size = new System.Drawing.Size(48, 16);
+            this.label9.TabIndex = 217;
+            this.label9.Text = "Date :";
+            // 
+            // txtMargin
+            // 
+            this.txtMargin.BackColor = System.Drawing.Color.White;
+            this.txtMargin.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper;
+            this.txtMargin.Font = new System.Drawing.Font("Arial", 10F);
+            this.txtMargin.Location = new System.Drawing.Point(302, 98);
+            this.txtMargin.Margin = new System.Windows.Forms.Padding(4);
+            this.txtMargin.MaxLength = 40;
+            this.txtMargin.Name = "txtMargin";
+            this.txtMargin.ReadOnly = true;
+            this.txtMargin.Size = new System.Drawing.Size(117, 23);
+            this.txtMargin.TabIndex = 106;
+            this.txtMargin.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
+            this.txtMargin.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtFromRange_KeyPress);
+            // 
+            // label8
+            // 
+            this.label8.AutoSize = true;
+            this.label8.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Bold);
+            this.label8.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.label8.Location = new System.Drawing.Point(235, 102);
+            this.label8.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(65, 16);
+            this.label8.TabIndex = 215;
+            this.label8.Text = "Margin :";
+            // 
+            // txtDisPer
+            // 
+            this.txtDisPer.BackColor = System.Drawing.Color.White;
+            this.txtDisPer.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper;
+            this.txtDisPer.Font = new System.Drawing.Font("Arial", 10F);
+            this.txtDisPer.Location = new System.Drawing.Point(141, 98);
+            this.txtDisPer.Margin = new System.Windows.Forms.Padding(4);
+            this.txtDisPer.MaxLength = 40;
+            this.txtDisPer.Name = "txtDisPer";
+            this.txtDisPer.ReadOnly = true;
+            this.txtDisPer.Size = new System.Drawing.Size(93, 23);
+            this.txtDisPer.TabIndex = 105;
+            this.txtDisPer.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
+            this.txtDisPer.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtFromRange_KeyPress);
+            // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Bold);
+            this.label7.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.label7.Location = new System.Drawing.Point(36, 102);
+            this.label7.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(102, 16);
+            this.label7.TabIndex = 213;
+            this.label7.Text = "Discount (%) :";
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Bold);
+            this.label5.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.label5.Location = new System.Drawing.Point(264, 69);
+            this.label5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(24, 16);
+            this.label5.TabIndex = 212;
+            this.label5.Text = "To";
+            // 
+            // txtToRange
+            // 
+            this.txtToRange.BackColor = System.Drawing.Color.White;
+            this.txtToRange.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper;
+            this.txtToRange.Font = new System.Drawing.Font("Arial", 10F);
+            this.txtToRange.Location = new System.Drawing.Point(302, 65);
+            this.txtToRange.Margin = new System.Windows.Forms.Padding(4);
+            this.txtToRange.MaxLength = 40;
+            this.txtToRange.Name = "txtToRange";
+            this.txtToRange.ReadOnly = true;
+            this.txtToRange.Size = new System.Drawing.Size(117, 23);
+            this.txtToRange.TabIndex = 104;
+            this.txtToRange.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
+            this.txtToRange.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtFromRange_KeyPress);
+            // 
+            // txtFromRange
+            // 
+            this.txtFromRange.BackColor = System.Drawing.Color.White;
+            this.txtFromRange.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper;
+            this.txtFromRange.Font = new System.Drawing.Font("Arial", 10F);
+            this.txtFromRange.Location = new System.Drawing.Point(141, 65);
+            this.txtFromRange.Margin = new System.Windows.Forms.Padding(4);
+            this.txtFromRange.MaxLength = 40;
+            this.txtFromRange.Name = "txtFromRange";
+            this.txtFromRange.ReadOnly = true;
+            this.txtFromRange.Size = new System.Drawing.Size(118, 23);
+            this.txtFromRange.TabIndex = 103;
+            this.txtFromRange.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
+            this.txtFromRange.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtFromRange_KeyPress);
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Bold);
+            this.label4.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.label4.Location = new System.Drawing.Point(40, 68);
+            this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(97, 16);
+            this.label4.TabIndex = 209;
+            this.label4.Text = "MRP Range :";
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.BackColor = System.Drawing.Color.Transparent;
+            this.label6.Font = new System.Drawing.Font("Arial", 11.25F, System.Drawing.FontStyle.Bold);
+            this.label6.ForeColor = System.Drawing.Color.Red;
+            this.label6.Location = new System.Drawing.Point(423, 35);
+            this.label6.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(14, 18);
+            this.label6.TabIndex = 208;
+            this.label6.Text = "*";
+            // 
+            // lblId
+            // 
+            this.lblId.AutoSize = true;
+            this.lblId.Location = new System.Drawing.Point(7, 110);
+            this.lblId.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lblId.Name = "lblId";
+            this.lblId.Size = new System.Drawing.Size(0, 16);
+            this.lblId.TabIndex = 6;
+            this.lblId.Visible = false;
+            // 
+            // txtName
+            // 
+            this.txtName.BackColor = System.Drawing.Color.White;
+            this.txtName.CharacterCasing = System.Windows.Forms.CharacterCasing.Upper;
+            this.txtName.Font = new System.Drawing.Font("Arial", 10F);
+            this.txtName.Location = new System.Drawing.Point(141, 31);
+            this.txtName.Margin = new System.Windows.Forms.Padding(4);
+            this.txtName.MaxLength = 40;
+            this.txtName.Name = "txtName";
+            this.txtName.ReadOnly = true;
+            this.txtName.Size = new System.Drawing.Size(278, 23);
+            this.txtName.TabIndex = 102;
+            this.txtName.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtname_KeyPress);
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Arial", 10F, System.Drawing.FontStyle.Bold);
+            this.label1.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.label1.Location = new System.Drawing.Point(18, 34);
+            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(122, 16);
+            this.label1.TabIndex = 1;
+            this.label1.Text = "Category Name :";
+            // 
+            // lblMsg
+            // 
+            this.lblMsg.AutoSize = true;
+            this.lblMsg.Font = new System.Drawing.Font("Arial", 8.25F, System.Drawing.FontStyle.Bold);
+            this.lblMsg.ForeColor = System.Drawing.Color.Maroon;
+            this.lblMsg.Location = new System.Drawing.Point(210, 12);
+            this.lblMsg.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lblMsg.Name = "lblMsg";
+            this.lblMsg.Size = new System.Drawing.Size(10, 14);
+            this.lblMsg.TabIndex = 2;
+            this.lblMsg.Text = " ";
+            // 
+            // pangrid
+            // 
+            this.pangrid.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.pangrid.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.pangrid.Controls.Add(this.dgrdName);
+            this.pangrid.Location = new System.Drawing.Point(481, 69);
+            this.pangrid.Margin = new System.Windows.Forms.Padding(4);
+            this.pangrid.Name = "pangrid";
+            this.pangrid.Size = new System.Drawing.Size(473, 457);
+            this.pangrid.TabIndex = 96;
+            this.pangrid.TabStop = true;
+            // 
+            // dgrdName
+            // 
+            this.dgrdName.AllowUserToAddRows = false;
+            this.dgrdName.AllowUserToDeleteRows = false;
+            this.dgrdName.AllowUserToResizeRows = false;
+            dataGridViewCellStyle1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(238)))), ((int)(((byte)(238)))), ((int)(((byte)(238)))));
+            this.dgrdName.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle1;
+            this.dgrdName.BackgroundColor = System.Drawing.Color.White;
+            this.dgrdName.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.dgrdName.ClipboardCopyMode = System.Windows.Forms.DataGridViewClipboardCopyMode.Disable;
+            dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
+            dataGridViewCellStyle2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(100)))), ((int)(((byte)(100)))));
+            dataGridViewCellStyle2.Font = new System.Drawing.Font("Arial", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle2.ForeColor = System.Drawing.Color.White;
+            dataGridViewCellStyle2.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(100)))), ((int)(((byte)(100)))));
+            dataGridViewCellStyle2.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.dgrdName.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle2;
+            this.dgrdName.ColumnHeadersHeight = 30;
+            this.dgrdName.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.DisableResizing;
+            this.dgrdName.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
+            this.id,
+            this.categoryName,
+            this.fromRange,
+            this.toRange,
+            this.disPer,
+            this.margin,
+            this.date,
+            this.createdBy,
+            this.updatedBy});
+            this.dgrdName.EnableHeadersVisualStyles = false;
+            this.dgrdName.Location = new System.Drawing.Point(16, 11);
+            this.dgrdName.Margin = new System.Windows.Forms.Padding(4);
+            this.dgrdName.MultiSelect = false;
+            this.dgrdName.Name = "dgrdName";
+            this.dgrdName.ReadOnly = true;
+            this.dgrdName.RowHeadersVisible = false;
+            this.dgrdName.RowTemplate.DefaultCellStyle.Font = new System.Drawing.Font("Arial", 9.75F);
+            this.dgrdName.RowTemplate.Height = 25;
+            this.dgrdName.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
+            this.dgrdName.Size = new System.Drawing.Size(441, 420);
+            this.dgrdName.TabIndex = 97;
+            this.dgrdName.SelectionChanged += new System.EventHandler(this.dgrdName_SelectionChanged);
+            this.dgrdName.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.dgrdName_KeyPress);
+            this.dgrdName.MouseClick += new System.Windows.Forms.MouseEventHandler(this.dgrdName_MouseClick);
+            // 
+            // id
+            // 
+            this.id.HeaderText = "id";
+            this.id.Name = "id";
+            this.id.ReadOnly = true;
+            this.id.Visible = false;
+            // 
+            // categoryName
+            // 
+            dataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
+            dataGridViewCellStyle3.Font = new System.Drawing.Font("Arial", 9F);
+            dataGridViewCellStyle3.SelectionBackColor = System.Drawing.Color.CornflowerBlue;
+            dataGridViewCellStyle3.SelectionForeColor = System.Drawing.Color.Black;
+            this.categoryName.DefaultCellStyle = dataGridViewCellStyle3;
+            this.categoryName.HeaderText = "Category Name";
+            this.categoryName.MinimumWidth = 15;
+            this.categoryName.Name = "categoryName";
+            this.categoryName.ReadOnly = true;
+            this.categoryName.Width = 120;
+            // 
+            // fromRange
+            // 
+            dataGridViewCellStyle4.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleRight;
+            this.fromRange.DefaultCellStyle = dataGridViewCellStyle4;
+            this.fromRange.HeaderText = "From Range";
+            this.fromRange.Name = "fromRange";
+            this.fromRange.ReadOnly = true;
+            this.fromRange.Width = 95;
+            // 
+            // toRange
+            // 
+            dataGridViewCellStyle5.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleRight;
+            this.toRange.DefaultCellStyle = dataGridViewCellStyle5;
+            this.toRange.HeaderText = "To Range";
+            this.toRange.Name = "toRange";
+            this.toRange.ReadOnly = true;
+            this.toRange.Width = 80;
+            // 
+            // disPer
+            // 
+            this.disPer.HeaderText = "Dis Per";
+            this.disPer.Name = "disPer";
+            this.disPer.ReadOnly = true;
+            this.disPer.Width = 60;
+            // 
+            // margin
+            // 
+            this.margin.HeaderText = "Margin";
+            this.margin.Name = "margin";
+            this.margin.ReadOnly = true;
+            this.margin.Width = 70;
+            // 
+            // date
+            // 
+            this.date.HeaderText = "Date";
+            this.date.Name = "date";
+            this.date.ReadOnly = true;
+            this.date.Width = 90;
+            // 
+            // createdBy
+            // 
+            this.createdBy.HeaderText = "Created By";
+            this.createdBy.Name = "createdBy";
+            this.createdBy.ReadOnly = true;
+            // 
+            // updatedBy
+            // 
+            this.updatedBy.HeaderText = "Updated By";
+            this.updatedBy.Name = "updatedBy";
+            this.updatedBy.ReadOnly = true;
+            // 
+            // errorname
+            // 
+            this.errorname.ContainerControl = this;
+            // 
+            // dataGridViewTextBoxColumn1
+            // 
+            dataGridViewCellStyle6.Alignment = System.Windows.Forms.DataGridViewContentAlignment.TopLeft;
+            dataGridViewCellStyle6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            dataGridViewCellStyle6.SelectionBackColor = System.Drawing.Color.CornflowerBlue;
+            dataGridViewCellStyle6.SelectionForeColor = System.Drawing.Color.Black;
+            this.dataGridViewTextBoxColumn1.DefaultCellStyle = dataGridViewCellStyle6;
+            this.dataGridViewTextBoxColumn1.HeaderText = "          WEAVE  NAME";
+            this.dataGridViewTextBoxColumn1.MinimumWidth = 15;
+            this.dataGridViewTextBoxColumn1.Name = "dataGridViewTextBoxColumn1";
+            this.dataGridViewTextBoxColumn1.ReadOnly = true;
+            this.dataGridViewTextBoxColumn1.Width = 180;
+            // 
+            // dataGridViewTextBoxColumn2
+            // 
+            this.dataGridViewTextBoxColumn2.HeaderText = "id";
+            this.dataGridViewTextBoxColumn2.Name = "dataGridViewTextBoxColumn2";
+            this.dataGridViewTextBoxColumn2.ReadOnly = true;
+            this.dataGridViewTextBoxColumn2.Visible = false;
+            // 
+            // panHeader
+            // 
+            this.panHeader.BackColor = System.Drawing.Color.White;
+            this.panHeader.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.panHeader.Controls.Add(this.lblNameHeader);
+            this.panHeader.Location = new System.Drawing.Point(23, 17);
+            this.panHeader.Margin = new System.Windows.Forms.Padding(4);
+            this.panHeader.Name = "panHeader";
+            this.panHeader.Size = new System.Drawing.Size(973, 45);
+            this.panHeader.TabIndex = 198;
+            // 
+            // lblNameHeader
+            // 
+            this.lblNameHeader.AutoSize = true;
+            this.lblNameHeader.BackColor = System.Drawing.Color.Transparent;
+            this.lblNameHeader.Font = new System.Drawing.Font("Arial", 13.25F, System.Drawing.FontStyle.Bold);
+            this.lblNameHeader.ForeColor = System.Drawing.Color.Black;
+            this.lblNameHeader.Location = new System.Drawing.Point(364, 10);
+            this.lblNameHeader.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lblNameHeader.Name = "lblNameHeader";
+            this.lblNameHeader.Size = new System.Drawing.Size(240, 21);
+            this.lblNameHeader.TabIndex = 209;
+            this.lblNameHeader.Text = "ITEM CATEGORY MASTER";
+            // 
+            // lblCreatedBy
+            // 
+            this.lblCreatedBy.Font = new System.Drawing.Font("Arial", 9.75F, System.Drawing.FontStyle.Bold);
+            this.lblCreatedBy.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
+            this.lblCreatedBy.LinkColor = System.Drawing.Color.White;
+            this.lblCreatedBy.Location = new System.Drawing.Point(26, 65);
+            this.lblCreatedBy.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lblCreatedBy.Name = "lblCreatedBy";
+            this.lblCreatedBy.Size = new System.Drawing.Size(968, 18);
+            this.lblCreatedBy.TabIndex = 508;
+            this.lblCreatedBy.TabStop = true;
+            this.lblCreatedBy.Text = "_";
+            this.lblCreatedBy.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            // 
+            // ItemCategoryMaster
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(100)))), ((int)(((byte)(100)))));
+            this.ClientSize = new System.Drawing.Size(1020, 651);
+            this.Controls.Add(this.lblCreatedBy);
+            this.Controls.Add(this.panHeader);
+            this.Controls.Add(this.panColor);
+            this.Font = new System.Drawing.Font("Arial", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.KeyPreview = true;
+            this.Margin = new System.Windows.Forms.Padding(4);
+            this.Name = "ItemCategoryMaster";
+            this.ShowIcon = false;
+            this.ShowInTaskbar = false;
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "Unit Master";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.ItemCategoryMaster_FormClosing);
+            this.Load += new System.EventHandler(this.UnitMaster_Load);
+            this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.UnitMaster_KeyDown);
+            this.panColor.ResumeLayout(false);
+            this.panel3.ResumeLayout(false);
+            this.panSearch.ResumeLayout(false);
+            this.panSearch.PerformLayout();
+            this.panel5.ResumeLayout(false);
+            this.panel5.PerformLayout();
+            this.pangrid.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.dgrdName)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.errorname)).EndInit();
+            this.panHeader.ResumeLayout(false);
+            this.panHeader.PerformLayout();
+            this.ResumeLayout(false);
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.Panel panColor;
+        private System.Windows.Forms.Panel panSearch;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.TextBox txtSearch;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Panel panel5;
+        private System.Windows.Forms.Label lblId;
+        private System.Windows.Forms.TextBox txtName;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Panel pangrid;
+        private System.Windows.Forms.DataGridView dgrdName;
+        private System.Windows.Forms.Label lblMsg;
+        private System.Windows.Forms.ErrorProvider errorname;
+        private System.Windows.Forms.DataGridViewTextBoxColumn dataGridViewTextBoxColumn1;
+        private System.Windows.Forms.DataGridViewTextBoxColumn dataGridViewTextBoxColumn2;
+        private System.Windows.Forms.Panel panel3;
+        private System.Windows.Forms.Button btnSearch;
+        private System.Windows.Forms.Button btnDelete;
+        private System.Windows.Forms.Button btnEdit;
+        private System.Windows.Forms.Button btnCancel;
+        private System.Windows.Forms.Button btnAdd;
+        private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.Panel panHeader;
+        private System.Windows.Forms.DataGridViewTextBoxColumn id;
+        private System.Windows.Forms.DataGridViewTextBoxColumn categoryName;
+        private System.Windows.Forms.DataGridViewTextBoxColumn fromRange;
+        private System.Windows.Forms.DataGridViewTextBoxColumn toRange;
+        private System.Windows.Forms.DataGridViewTextBoxColumn disPer;
+        private System.Windows.Forms.DataGridViewTextBoxColumn margin;
+        private System.Windows.Forms.DataGridViewTextBoxColumn date;
+        private System.Windows.Forms.DataGridViewTextBoxColumn createdBy;
+        private System.Windows.Forms.DataGridViewTextBoxColumn updatedBy;
+        private System.Windows.Forms.Label lblNameHeader;
+        private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.TextBox txtToRange;
+        private System.Windows.Forms.TextBox txtFromRange;
+        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.TextBox txtMargin;
+        private System.Windows.Forms.Label label8;
+        private System.Windows.Forms.TextBox txtDisPer;
+        private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.LinkLabel lblCreatedBy;
+        private System.Windows.Forms.Label label9;
+        private System.Windows.Forms.MaskedTextBox txtDate;
+    }
+}
+

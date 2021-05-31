@@ -1,0 +1,1234 @@
+C:\MyData\SSS_GST\SSS\bin\Debug\SSS.exe
+C:\MyData\SSS_GST\SSS\bin\Debug\SSS.pdb
+C:\MyData\SSS_GST\SSS\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\MyData\SSS_GST\SSS\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\MyData\SSS_GST\SSS\bin\Debug\CrystalDecisions.Shared.dll
+C:\MyData\SSS_GST\SSS\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\MyData\SSS_GST\SSS\bin\Debug\Newtonsoft.Json.dll
+C:\MyData\SSS_GST\SSS\bin\Debug\System.Web.Services.dll
+C:\MyData\SSS_GST\SSS\bin\Debug\System.Windows.Forms.DataVisualization.dll
+C:\MyData\SSS_GST\SSS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\MyData\SSS_GST\SSS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\MyData\SSS_GST\SSS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\MyData\SSS_GST\SSS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\MyData\SSS_GST\SSS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\MyData\SSS_GST\SSS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\MyData\SSS_GST\SSS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\MyData\SSS_GST\SSS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\MyData\SSS_GST\SSS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\MyData\SSS_GST\SSS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\MyData\SSS_GST\SSS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\MyData\SSS_GST\SSS\bin\Debug\FlashControlV71.dll
+C:\MyData\SSS_GST\SSS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\MyData\SSS_GST\SSS\bin\Debug\stdole.dll
+C:\MyData\SSS_GST\SSS\bin\Debug\ShockwaveFlashObjects.dll
+C:\MyData\SSS_GST\SSS\bin\Debug\Interop.IasHelperLib.dll
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\Interop.IasHelperLib.dll
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.csproj.ResolveComReference.cache
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.ActivateSoftware.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.Active_InactiveCustomers.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.AddressBook.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.AdjustMultiFinancialYear.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.AdvanceAdjustment.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.AdvanceAdjustmentRegister.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.AppOrderBooking.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.BankGuaranteeRegister.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.BankGuarantee.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.CustomPurchaseReturnRegister.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.CustomSaleReturnRegister.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.ItemMaster.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.PurchaseBook_Retail.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.PurchaseBook_Retail_Merge.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.RestorentSaleRegister.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.SaleBook_Restorent.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.StockAudit.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.StockDrillDownReport.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.SupplierMapingRegister.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.SupplierMapping.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.PinCodeDistanceRegister.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.PurchaseReturn_Trading.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.SalesDrillDownReport.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.SummaryRegister.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.SupplierMaster_SSS.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.TemplateSetting.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.CustomPurchaseReport.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.CustomSaleRegister.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.DesignRegister.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.MergingReference.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.MessageMaster.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.ReferenceBook.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.SaleBookRetail_FormControl.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.SearchCategory_Custom.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.StockTransferVoucher.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.AdjustMultiCompanyLedger.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.AdminPanel.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.Agent_Report.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.AlterationSlip.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.AlterationSlipRegister.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.AmendedBillRegister.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.BalanceSheet_New.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.BankBook.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.BarCode_Printing.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.BiltyDetails.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.BirthdayDetails.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.BlackListReport.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.BrandMaster.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.BrandwiseProfit.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.CartonSizeMaster.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.CartonTypeMaster.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.CashBook.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.CategoryMaster.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.ChequeDetailRegister.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.ChequeDetails.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.CompanyDetails.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.CostCentreMaster.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.CostMaster.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.CourierBookIN.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.CourierBookOut.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.CourierBookRegister.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.CourierMaster.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.CreditNoteRegister.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.CreditNote_Supplier.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.FormDashboard.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.Dashboard_Sale_Details.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.Data_Synchronize.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.DayBookRegister.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.DebitNoteRegister.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.DebitNote_Customer.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.DebitorsCreditorsAccount.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.DepreciationChart.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.DesignMaster.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.DiscountAndIncentive.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.EditLogReport.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.EditTrailDetails.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.EmailRegister.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.FairDetails.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.FastMovingBrand.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.GoodscumPurchase.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.GoodsReceiveAdjustment.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.GoodsReceiveRegister.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.GoodsReceipt.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.GraceDaysMaster.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.GroupMaster.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.GSTDetails.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.GSTHSN_Summary.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.GSTR_1_Summary.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.GSTR_2_Summary.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.GSTSummary.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.GST_VoucherRegister.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.Happy_Birthday.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.HideRecords.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.ImportDataFromExcel.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.ImportDataFromExcel_Purchase.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.ImportDataFromExcel_RetailPurchase.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.InterestStatement.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.InvoicePrintingConfiguration.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.ItemCategoryMaster.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.ItemGroupMaster.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.JournalEntry_New.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.JournalRegister.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.JournalVoucherDetails.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.LastIntDiscountDetails.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.LayoutMaster.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.LedgerAccount.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.LedgerAccount_Detailed.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.LedgerMonthlySummary.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.ChangePassword.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.CompanySetting.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.CreateUser.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.MainPage.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.MarketerMaster.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.MaterialCenterMaster.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.MergingItems.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.MergingParty.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.MergingTransport.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.MinMaxBrandDetails.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.MonthlyStockRegister.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.Month_Lock.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.NewCategory.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.CompanyMaster.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.OrderBooking.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.Profit_Margin.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.PurchaseBook_Retail_Custom.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.Registration.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.BranchesSalesDetail.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.SaleBillInvoiceType.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.SaleBook_Retail.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.SaleBook_Retail_Custom.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.SaleReturn_Retail.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.SalesManMaster.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.Salesman_Report.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.SearchDataOther.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.ShowPartyDetailsWithDueDays.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.PurchaseBook_RetailRegister.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.PurchaseReturn_Retail.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.RemovalReason.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.SaleBook_TradingRegister.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.SaleBook_Trading.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.SaleReturn_Trading.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.SaleServiceBook.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.SaleServiceRegister.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.SalesSummaryGraph.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.SchemeMaster.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.SearchCategory.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.SendSMSPage.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.SendWhatsappPage.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.ShowCategoryWiseDetails.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.ShowPartyBalanceSlabwise.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.PartyName.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.ShowPartyMasterSummary.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.PartyTransport.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.BillWiseLedgerSummary.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.PartyWiseLedgerSummary.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.PartyWiseSalePurchase.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.PleaseWait.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.PrintMultiLedger.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.FASDetailPage.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.PurchaseBook.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.PurchaseBookRegister.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.PurchaseOutstandingSlip.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.PurchaseBook_Trading.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.PurchaseReturn.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.PurchaseReturnRegister.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.PurchaseTypeMaster.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.Reporting.ShowReport.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.SaleBook.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.SaleReturn.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.SaleReturnRegister.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.SalesBookRegisters.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.SearchData.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.SearchDataOnOld.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.SelectCompany.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.SendEmail.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.SendingEmailPage.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.SendInternet.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.SendUnicodeSMS.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.ShowAmountLimit.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.ShowBalanceSheetDetails.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.ShowCurrentLedgerBalance.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.OrderBookingRegister.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.ProfitandLoss.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.Properties.Resources.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.ReportSetting.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.ShowNewCashBook.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.ShowPartyMaster.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.ShowPetiDetails.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.ShowReportSummary.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.ShowStockSlabwise.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.ShowWhatsappNoRegister.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.SMSReportRegister.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.StationMaster.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.StockRegister.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.StockStatus.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.StockSummaryVoucherWise.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.StockTransferRegister.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.NewSubParty.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.SupplierMaster.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.SalesTypeMaster.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.TaxCategory.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.SchemeDetailMaster.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.TCSDetails.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.TCSRegister.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.TransferRecord.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.TransportMaster.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.TrialBalance.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.UnitMaster.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.UserAgreement.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.UserLogin.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.VariantDetails.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.VariantMaster.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.ViewPaymentRequest.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.WriteOnCard.resources
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.csproj.GenerateResource.Cache
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.exe
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.pdb
+C:\MyData\SSS_GST\SSS\obj\x86\Debug\SSS.csprojResolveAssemblyReference.cache
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\Interop.IasHelperLib.dll
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.csproj.ResolveComReference.cache
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.exe
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.pdb
+F:\Projects\SSS_GST\SSS\bin\Debug\SSS.exe
+F:\Projects\SSS_GST\SSS\bin\Debug\SSS.pdb
+F:\Projects\SSS_GST\SSS\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\Projects\SSS_GST\SSS\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\Projects\SSS_GST\SSS\bin\Debug\CrystalDecisions.Shared.dll
+F:\Projects\SSS_GST\SSS\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\Projects\SSS_GST\SSS\bin\Debug\Newtonsoft.Json.dll
+F:\Projects\SSS_GST\SSS\bin\Debug\System.Web.Services.dll
+F:\Projects\SSS_GST\SSS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\Projects\SSS_GST\SSS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\Projects\SSS_GST\SSS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\Projects\SSS_GST\SSS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\Projects\SSS_GST\SSS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\Projects\SSS_GST\SSS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\Projects\SSS_GST\SSS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\Projects\SSS_GST\SSS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\Projects\SSS_GST\SSS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\Projects\SSS_GST\SSS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\Projects\SSS_GST\SSS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\Projects\SSS_GST\SSS\bin\Debug\FlashControlV71.dll
+F:\Projects\SSS_GST\SSS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\Projects\SSS_GST\SSS\bin\Debug\stdole.dll
+F:\Projects\SSS_GST\SSS\bin\Debug\ShockwaveFlashObjects.dll
+F:\Projects\SSS_GST\SSS\bin\Debug\Interop.IasHelperLib.dll
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.csprojResolveAssemblyReference.cache
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.ActivateSoftware.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.Active_InactiveCustomers.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.AddressBook.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.AdjustMultiFinancialYear.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.AdvanceAdjustment.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.AdvanceAdjustmentRegister.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.AppOrderBooking.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.BankGuaranteeRegister.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.BankGuarantee.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.CustomPurchaseReturnRegister.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.CustomSaleReturnRegister.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.ItemMaster.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.PurchaseBook_Retail.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.PurchaseBook_Retail_Merge.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.RestorentSaleRegister.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.SaleBook_Restorent.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.SaleBook_Retail_POS.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.StockAudit.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.StockDrillDownReport.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.SupplierMapingRegister.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.SupplierMapping.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.PinCodeDistanceRegister.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.PurchaseReturn_Trading.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.SalesDrillDownReport.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.SummaryRegister.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.SupplierMaster_SSS.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.TemplateSetting.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.CustomPurchaseReport.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.CustomSaleRegister.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.DesignRegister.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.MergingReference.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.MessageMaster.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.ReferenceBook.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.SaleBookRetail_FormControl.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.SearchCategory_Custom.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.StockTransferVoucher.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.AdjustMultiCompanyLedger.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.AdminPanel.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.Agent_Report.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.AlterationSlip.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.AlterationSlipRegister.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.AmendedBillRegister.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.BalanceSheet_New.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.BankBook.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.BarCode_Printing.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.BiltyDetails.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.BirthdayDetails.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.BlackListReport.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.BrandMaster.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.BrandwiseProfit.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.CartonSizeMaster.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.CartonTypeMaster.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.CashBook.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.CategoryMaster.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.ChequeDetailRegister.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.ChequeDetails.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.CompanyDetails.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.CostCentreMaster.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.CostMaster.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.CourierBookIN.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.CourierBookOut.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.CourierBookRegister.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.CourierMaster.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.CreditNoteRegister.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.CreditNote_Supplier.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.FormDashboard.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.Dashboard_Sale_Details.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.Data_Synchronize.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.DayBookRegister.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.DebitNoteRegister.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.DebitNote_Customer.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.DebitorsCreditorsAccount.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.DepreciationChart.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.DesignMaster.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.DiscountAndIncentive.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.EditLogReport.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.EditTrailDetails.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.EmailRegister.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.FairDetails.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.FastMovingBrand.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.GoodscumPurchase.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.GoodsReceiveAdjustment.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.GoodsReceiveRegister.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.GoodsReceipt.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.GraceDaysMaster.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.GroupMaster.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.GSTDetails.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.GSTHSN_Summary.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.GSTR_1_Summary.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.GSTR_2_Summary.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.GSTSummary.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.GST_VoucherRegister.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.Happy_Birthday.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.HideRecords.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.ImportDataFromExcel.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.ImportDataFromExcel_Purchase.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.ImportDataFromExcel_RetailPurchase.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.InterestStatement.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.InvoicePrintingConfiguration.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.ItemCategoryMaster.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.ItemGroupMaster.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.JournalEntry_New.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.JournalRegister.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.JournalVoucherDetails.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.LastIntDiscountDetails.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.LayoutMaster.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.LedgerAccount.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.LedgerAccount_Detailed.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.LedgerMonthlySummary.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.ChangePassword.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.CompanySetting.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.CreateUser.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.MainPage.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.MarketerMaster.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.MaterialCenterMaster.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.MergingItems.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.MergingParty.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.MergingTransport.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.MinMaxBrandDetails.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.MonthlyStockRegister.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.Month_Lock.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.NewCategory.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.CompanyMaster.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.OrderBooking.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.Profit_Margin.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.PurchaseBook_Retail_Custom.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.Registration.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.BranchesSalesDetail.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.SaleBillInvoiceType.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.SaleBook_Retail.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.SaleBook_Retail_Custom.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.SaleReturn_Retail.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.SalesManMaster.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.Salesman_Report.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.SearchDataOther.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.ShowPartyDetailsWithDueDays.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.PurchaseBook_RetailRegister.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.PurchaseReturn_Retail.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.RemovalReason.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.SaleBook_TradingRegister.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.SaleBook_Trading.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.SaleReturn_Trading.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.SaleServiceBook.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.SaleServiceRegister.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.SalesSummaryGraph.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.SchemeMaster.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.SearchCategory.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.SendSMSPage.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.SendWhatsappPage.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.ShowCategoryWiseDetails.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.ShowPartyBalanceSlabwise.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.PartyName.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.ShowPartyMasterSummary.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.PartyTransport.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.BillWiseLedgerSummary.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.PartyWiseLedgerSummary.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.PartyWiseSalePurchase.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.PleaseWait.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.PrintMultiLedger.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.FASDetailPage.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.PurchaseBook.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.PurchaseBookRegister.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.PurchaseOutstandingSlip.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.PurchaseBook_Trading.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.PurchaseReturn.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.PurchaseReturnRegister.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.PurchaseTypeMaster.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.Reporting.ShowReport.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.SaleBook.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.SaleReturn.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.SaleReturnRegister.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.SalesBookRegisters.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.SearchData.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.SearchDataOnOld.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.SelectCompany.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.SendEmail.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.SendingEmailPage.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.SendInternet.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.SendUnicodeSMS.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.ShowAmountLimit.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.ShowBalanceSheetDetails.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.ShowCurrentLedgerBalance.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.OrderBookingRegister.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.ProfitandLoss.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.Properties.Resources.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.ReportSetting.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.ShowNewCashBook.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.ShowPartyMaster.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.ShowPetiDetails.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.ShowReportSummary.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.ShowStockSlabwise.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.ShowWhatsappNoRegister.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.SMSReportRegister.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.StationMaster.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.StockRegister.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.StockStatus.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.StockSummaryVoucherWise.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.StockTransferRegister.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.NewSubParty.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.SupplierMaster.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.SalesTypeMaster.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.TaxCategory.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.SchemeDetailMaster.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.TCSDetails.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.TCSRegister.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.TransferRecord.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.TransportMaster.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.TrialBalance.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.UnitMaster.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.UserAgreement.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.UserLogin.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.VariantDetails.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.VariantMaster.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.ViewPaymentRequest.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.WriteOnCard.resources
+F:\Projects\SSS_GST\SSS\obj\x86\Debug\SSS.csproj.GenerateResource.Cache
+E:\Project\SSS_GST\SSS\bin\Debug\SSS.exe
+E:\Project\SSS_GST\SSS\bin\Debug\SSS.pdb
+E:\Project\SSS_GST\SSS\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\Project\SSS_GST\SSS\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\Project\SSS_GST\SSS\bin\Debug\CrystalDecisions.Shared.dll
+E:\Project\SSS_GST\SSS\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\Project\SSS_GST\SSS\bin\Debug\Newtonsoft.Json.dll
+E:\Project\SSS_GST\SSS\bin\Debug\System.Web.Services.dll
+E:\Project\SSS_GST\SSS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Project\SSS_GST\SSS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Project\SSS_GST\SSS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Project\SSS_GST\SSS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Project\SSS_GST\SSS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Project\SSS_GST\SSS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Project\SSS_GST\SSS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Project\SSS_GST\SSS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Project\SSS_GST\SSS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Project\SSS_GST\SSS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Project\SSS_GST\SSS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Project\SSS_GST\SSS\bin\Debug\FlashControlV71.dll
+E:\Project\SSS_GST\SSS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Project\SSS_GST\SSS\bin\Debug\stdole.dll
+E:\Project\SSS_GST\SSS\bin\Debug\ShockwaveFlashObjects.dll
+E:\Project\SSS_GST\SSS\bin\Debug\Interop.IasHelperLib.dll
+E:\Project\SSS_GST\SSS\obj\x86\Debug\Interop.IasHelperLib.dll
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.csproj.ResolveComReference.cache
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.ActivateSoftware.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.Active_InactiveCustomers.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.AddressBook.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.AdjustMultiFinancialYear.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.AdvanceAdjustment.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.AdvanceAdjustmentRegister.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.AppOrderBooking.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.BankGuaranteeRegister.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.BankGuarantee.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.CustomPurchaseReturnRegister.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.CustomSaleReturnRegister.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.Discount_Offer.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.Incentive_Target.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.ItemMaster.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.LedgerAccount_Remark.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.PurchaseBook_Retail.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.PurchaseBook_Retail_Merge.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.RestorentSaleRegister.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.SaleBook_Restorent.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.SaleBook_Retail_POS.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.StockAudit.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.StockDrillDownReport.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.SupplierMapingRegister.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.SupplierMapping.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.PinCodeDistanceRegister.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.PurchaseReturn_Trading.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.SalesDrillDownReport.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.SummaryRegister.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.SupplierMaster_SSS.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.TemplateSetting.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.CustomPurchaseReport.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.CustomSaleRegister.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.DesignRegister.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.MergingReference.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.MessageMaster.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.ReferenceBook.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.SaleBookRetail_FormControl.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.SearchCategory_Custom.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.StockTransferVoucher.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.AdjustMultiCompanyLedger.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.AdminPanel.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.Agent_Report.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.AlterationSlip.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.AlterationSlipRegister.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.AmendedBillRegister.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.BalanceSheet_New.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.BankBook.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.BarCode_Printing.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.BiltyDetails.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.BirthdayDetails.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.BlackListReport.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.BrandMaster.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.BrandwiseProfit.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.CartonSizeMaster.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.CartonTypeMaster.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.CashBook.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.CategoryMaster.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.ChequeDetailRegister.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.ChequeDetails.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.CompanyDetails.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.CostCentreMaster.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.CostMaster.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.CourierBookIN.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.CourierBookOut.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.CourierBookRegister.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.CourierMaster.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.CreditNoteRegister.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.CreditNote_Supplier.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.FormDashboard.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.Dashboard_Sale_Details.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.Data_Synchronize.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.DayBookRegister.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.DebitNoteRegister.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.DebitNote_Customer.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.DebitorsCreditorsAccount.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.DepreciationChart.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.DesignMaster.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.DiscountAndIncentive.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.EditLogReport.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.EditTrailDetails.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.EmailRegister.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.FairDetails.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.FastMovingBrand.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.GoodscumPurchase.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.GoodsReceiveAdjustment.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.GoodsReceiveRegister.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.GoodsReceipt.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.GraceDaysMaster.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.GroupMaster.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.GSTDetails.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.GSTHSN_Summary.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.GSTR_1_Summary.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.GSTR_2_Summary.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.GSTSummary.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.GST_VoucherRegister.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.Happy_Birthday.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.HideRecords.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.ImportDataFromExcel.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.ImportDataFromExcel_Purchase.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.ImportDataFromExcel_RetailPurchase.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.InterestStatement.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.InvoicePrintingConfiguration.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.ItemCategoryMaster.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.ItemGroupMaster.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.JournalEntry_New.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.JournalRegister.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.JournalVoucherDetails.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.LastIntDiscountDetails.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.LayoutMaster.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.LedgerAccount.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.LedgerAccount_Detailed.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.LedgerMonthlySummary.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.ChangePassword.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.CompanySetting.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.CreateUser.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.MainPage.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.MarketerMaster.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.MaterialCenterMaster.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.MergingItems.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.MergingParty.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.MergingTransport.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.MinMaxBrandDetails.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.MonthlyStockRegister.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.Month_Lock.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.NewCategory.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.CompanyMaster.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.OrderBooking.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.Profit_Margin.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.PurchaseBook_Retail_Custom.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.Registration.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.BranchesSalesDetail.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.SaleBillInvoiceType.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.SaleBook_Retail.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.SaleBook_Retail_Custom.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.SaleReturn_Retail.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.SalesManMaster.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.Salesman_Report.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.SearchDataOther.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.ShowPartyDetailsWithDueDays.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.PurchaseBook_RetailRegister.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.PurchaseReturn_Retail.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.RemovalReason.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.SaleBook_TradingRegister.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.SaleBook_Trading.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.SaleReturn_Trading.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.SaleServiceBook.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.SaleServiceRegister.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.SalesSummaryGraph.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.SchemeMaster.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.SearchCategory.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.SendSMSPage.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.SendWhatsappPage.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.ShowCategoryWiseDetails.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.ShowPartyBalanceSlabwise.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.PartyName.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.ShowPartyMasterSummary.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.PartyTransport.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.BillWiseLedgerSummary.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.PartyWiseLedgerSummary.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.PartyWiseSalePurchase.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.PleaseWait.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.PrintMultiLedger.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.FASDetailPage.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.PurchaseBook.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.PurchaseBookRegister.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.PurchaseOutstandingSlip.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.PurchaseBook_Trading.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.PurchaseReturn.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.PurchaseReturnRegister.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.PurchaseTypeMaster.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.Reporting.ShowReport.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.SaleBook.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.SaleReturn.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.SaleReturnRegister.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.SalesBookRegisters.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.SearchData.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.SearchDataOnOld.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.SelectCompany.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.SendEmail.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.SendingEmailPage.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.SendInternet.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.SendUnicodeSMS.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.ShowAmountLimit.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.ShowBalanceSheetDetails.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.ShowCurrentLedgerBalance.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.OrderBookingRegister.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.ProfitandLoss.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.Properties.Resources.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.ReportSetting.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.ShowNewCashBook.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.ShowPartyMaster.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.ShowPetiDetails.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.ShowReportSummary.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.ShowStockSlabwise.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.ShowWhatsappNoRegister.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.SMSReportRegister.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.StationMaster.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.StockRegister.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.StockStatus.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.StockSummaryVoucherWise.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.StockTransferRegister.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.NewSubParty.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.SupplierMaster.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.SalesTypeMaster.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.TaxCategory.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.SchemeDetailMaster.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.TCSDetails.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.TCSRegister.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.TransferRecord.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.TransportMaster.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.TrialBalance.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.UnitMaster.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.UserAgreement.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.UserLogin.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.VariantDetails.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.VariantMaster.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.ViewPaymentRequest.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.WriteOnCard.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.csproj.GenerateResource.Cache
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.exe
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.pdb
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.LoadingForm.resources
+E:\Project\SSS_GST\SSS\obj\x86\Debug\SSS.csprojResolveAssemblyReference.cache
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\Interop.IasHelperLib.dll
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.csproj.ResolveComReference.cache
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.pdb
+E:\Project\New folder\SSS_GST\SSS\bin\Debug\SSS.exe
+E:\Project\New folder\SSS_GST\SSS\bin\Debug\SSS.pdb
+E:\Project\New folder\SSS_GST\SSS\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\Project\New folder\SSS_GST\SSS\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\Project\New folder\SSS_GST\SSS\bin\Debug\CrystalDecisions.Shared.dll
+E:\Project\New folder\SSS_GST\SSS\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\Project\New folder\SSS_GST\SSS\bin\Debug\Newtonsoft.Json.dll
+E:\Project\New folder\SSS_GST\SSS\bin\Debug\System.Web.Services.dll
+E:\Project\New folder\SSS_GST\SSS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Project\New folder\SSS_GST\SSS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Project\New folder\SSS_GST\SSS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Project\New folder\SSS_GST\SSS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Project\New folder\SSS_GST\SSS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Project\New folder\SSS_GST\SSS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Project\New folder\SSS_GST\SSS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Project\New folder\SSS_GST\SSS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Project\New folder\SSS_GST\SSS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Project\New folder\SSS_GST\SSS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Project\New folder\SSS_GST\SSS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Project\New folder\SSS_GST\SSS\bin\Debug\FlashControlV71.dll
+E:\Project\New folder\SSS_GST\SSS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Project\New folder\SSS_GST\SSS\bin\Debug\stdole.dll
+E:\Project\New folder\SSS_GST\SSS\bin\Debug\ShockwaveFlashObjects.dll
+E:\Project\New folder\SSS_GST\SSS\bin\Debug\Interop.IasHelperLib.dll
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.csprojResolveAssemblyReference.cache
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.ActivateSoftware.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.Active_InactiveCustomers.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.AddressBook.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.AdjustMultiFinancialYear.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.AdvanceAdjustment.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.AdvanceAdjustmentRegister.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.AppOrderBooking.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.BankGuaranteeRegister.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.BankGuarantee.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.CustomPurchaseReturnRegister.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.CustomSaleReturnRegister.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.Discount_Offer.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.Incentive_Target.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.ItemMaster.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.LedgerAccount_Remark.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.LoadingForm.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.PurchaseBook_Retail.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.PurchaseBook_Retail_Merge.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.RestorentSaleRegister.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.SaleBook_Restorent.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.SaleBook_Retail_POS.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.StockAudit.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.StockDrillDownReport.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.SupplierMapingRegister.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.SupplierMapping.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.PinCodeDistanceRegister.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.PurchaseReturn_Trading.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.SalesDrillDownReport.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.SummaryRegister.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.SupplierMaster_SSS.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.TemplateSetting.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.CustomPurchaseReport.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.CustomSaleRegister.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.DesignRegister.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.MergingReference.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.MessageMaster.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.ReferenceBook.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.SaleBookRetail_FormControl.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.SearchCategory_Custom.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.StockTransferVoucher.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.AdjustMultiCompanyLedger.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.AdminPanel.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.Agent_Report.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.AlterationSlip.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.AlterationSlipRegister.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.AmendedBillRegister.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.BalanceSheet_New.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.BankBook.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.BarCode_Printing.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.BiltyDetails.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.BirthdayDetails.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.BlackListReport.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.BrandMaster.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.BrandwiseProfit.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.CartonSizeMaster.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.CartonTypeMaster.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.CashBook.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.CategoryMaster.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.ChequeDetailRegister.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.ChequeDetails.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.CompanyDetails.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.CostCentreMaster.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.CostMaster.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.CourierBookIN.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.CourierBookOut.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.CourierBookRegister.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.CourierMaster.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.CreditNoteRegister.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.CreditNote_Supplier.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.FormDashboard.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.Dashboard_Sale_Details.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.Data_Synchronize.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.DayBookRegister.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.DebitNoteRegister.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.DebitNote_Customer.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.DebitorsCreditorsAccount.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.DepreciationChart.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.DesignMaster.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.DiscountAndIncentive.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.EditLogReport.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.EditTrailDetails.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.EmailRegister.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.FairDetails.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.FastMovingBrand.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.GoodscumPurchase.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.GoodsReceiveAdjustment.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.GoodsReceiveRegister.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.GoodsReceipt.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.GraceDaysMaster.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.GroupMaster.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.GSTDetails.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.GSTHSN_Summary.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.GSTR_1_Summary.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.GSTR_2_Summary.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.GSTSummary.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.GST_VoucherRegister.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.Happy_Birthday.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.HideRecords.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.ImportDataFromExcel.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.ImportDataFromExcel_Purchase.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.ImportDataFromExcel_RetailPurchase.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.InterestStatement.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.InvoicePrintingConfiguration.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.ItemCategoryMaster.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.ItemGroupMaster.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.JournalEntry_New.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.JournalRegister.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.JournalVoucherDetails.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.LastIntDiscountDetails.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.LayoutMaster.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.LedgerAccount.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.LedgerAccount_Detailed.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.LedgerMonthlySummary.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.ChangePassword.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.CompanySetting.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.CreateUser.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.MainPage.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.MarketerMaster.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.MaterialCenterMaster.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.MergingItems.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.MergingParty.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.MergingTransport.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.MinMaxBrandDetails.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.MonthlyStockRegister.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.Month_Lock.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.NewCategory.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.CompanyMaster.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.OrderBooking.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.Profit_Margin.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.PurchaseBook_Retail_Custom.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.Registration.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.BranchesSalesDetail.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.SaleBillInvoiceType.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.SaleBook_Retail.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.SaleBook_Retail_Custom.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.SaleReturn_Retail.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.SalesManMaster.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.Salesman_Report.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.SearchDataOther.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.ShowPartyDetailsWithDueDays.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.PurchaseBook_RetailRegister.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.PurchaseReturn_Retail.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.RemovalReason.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.SaleBook_TradingRegister.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.SaleBook_Trading.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.SaleReturn_Trading.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.SaleServiceBook.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.SaleServiceRegister.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.SalesSummaryGraph.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.SchemeMaster.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.SearchCategory.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.SendSMSPage.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.SendWhatsappPage.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.ShowCategoryWiseDetails.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.ShowPartyBalanceSlabwise.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.PartyName.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.ShowPartyMasterSummary.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.PartyTransport.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.BillWiseLedgerSummary.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.PartyWiseLedgerSummary.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.PartyWiseSalePurchase.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.PleaseWait.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.PrintMultiLedger.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.FASDetailPage.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.PurchaseBook.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.PurchaseBookRegister.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.PurchaseOutstandingSlip.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.PurchaseBook_Trading.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.PurchaseReturn.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.PurchaseReturnRegister.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.PurchaseTypeMaster.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.Reporting.ShowReport.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.SaleBook.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.SaleReturn.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.SaleReturnRegister.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.SalesBookRegisters.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.SearchData.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.SearchDataOnOld.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.SelectCompany.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.SendEmail.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.SendingEmailPage.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.SendInternet.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.SendUnicodeSMS.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.ShowAmountLimit.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.ShowBalanceSheetDetails.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.ShowCurrentLedgerBalance.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.OrderBookingRegister.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.ProfitandLoss.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.Properties.Resources.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.ReportSetting.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.ShowNewCashBook.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.ShowPartyMaster.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.ShowPetiDetails.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.ShowReportSummary.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.ShowStockSlabwise.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.ShowWhatsappNoRegister.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.SMSReportRegister.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.StationMaster.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.StockRegister.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.StockStatus.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.StockSummaryVoucherWise.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.StockTransferRegister.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.NewSubParty.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.SupplierMaster.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.SalesTypeMaster.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.TaxCategory.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.SchemeDetailMaster.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.TCSDetails.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.TCSRegister.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.TransferRecord.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.TransportMaster.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.TrialBalance.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.UnitMaster.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.UserAgreement.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.UserLogin.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.VariantDetails.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.VariantMaster.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.ViewPaymentRequest.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.WriteOnCard.resources
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.csproj.GenerateResource.Cache
+E:\Project\New folder\SSS_GST\SSS\obj\x86\Debug\SSS.exe
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\bin\Debug\SSS.exe
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\bin\Debug\SSS.pdb
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\bin\Debug\Newtonsoft.Json.dll
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\bin\Debug\FlashControlV71.dll
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\bin\Debug\stdole.dll
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\bin\Debug\ShockwaveFlashObjects.dll
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\bin\Debug\Interop.IasHelperLib.dll
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.csprojAssemblyReference.cache
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\Interop.IasHelperLib.dll
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.csproj.ResolveComReference.cache
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.ActivateSoftware.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.Active_InactiveCustomers.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.AddressBook.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.AdjustMultiFinancialYear.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.AdvanceAdjustment.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.AdvanceAdjustmentRegister.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.AppOrderBooking.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.BankGuaranteeRegister.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.BankGuarantee.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.CustomPurchaseReturnRegister.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.CustomSaleReturnRegister.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.Discount_Offer.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.Incentive_Target.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.ItemMaster.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.LedgerAccount_Remark.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.LoadingForm.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.PurchaseBook_Retail.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.PurchaseBook_Retail_Merge.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.RestorentSaleRegister.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.SaleBook_Restorent.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.SaleBook_Retail_POS.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.StockAudit.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.StockDrillDownReport.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.SupplierMapingRegister.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.SupplierMapping.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.PinCodeDistanceRegister.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.PurchaseReturn_Trading.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.SalesDrillDownReport.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.SummaryRegister.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.SupplierMaster_SSS.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.TemplateSetting.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.CustomPurchaseReport.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.CustomSaleRegister.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.DesignRegister.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.MergingReference.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.MessageMaster.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.ReferenceBook.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.SaleBookRetail_FormControl.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.SearchCategory_Custom.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.StockTransferVoucher.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.AdjustMultiCompanyLedger.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.AdminPanel.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.Agent_Report.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.AlterationSlip.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.AlterationSlipRegister.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.AmendedBillRegister.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.BalanceSheet_New.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.BankBook.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.BarCode_Printing.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.BiltyDetails.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.BirthdayDetails.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.BlackListReport.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.BrandMaster.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.BrandwiseProfit.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.CartonSizeMaster.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.CartonTypeMaster.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.CashBook.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.CategoryMaster.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.ChequeDetailRegister.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.ChequeDetails.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.CompanyDetails.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.CostCentreMaster.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.CostMaster.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.CourierBookIN.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.CourierBookOut.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.CourierBookRegister.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.CourierMaster.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.CreditNoteRegister.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.CreditNote_Supplier.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.FormDashboard.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.Dashboard_Sale_Details.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.Data_Synchronize.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.DayBookRegister.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.DebitNoteRegister.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.DebitNote_Customer.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.DebitorsCreditorsAccount.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.DepreciationChart.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.DesignMaster.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.DiscountAndIncentive.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.EditLogReport.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.EditTrailDetails.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.EmailRegister.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.FairDetails.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.FastMovingBrand.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.GoodscumPurchase.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.GoodsReceiveAdjustment.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.GoodsReceiveRegister.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.GoodsReceipt.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.GraceDaysMaster.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.GroupMaster.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.GSTDetails.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.GSTHSN_Summary.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.GSTR_1_Summary.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.GSTR_2_Summary.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.GSTSummary.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.GST_VoucherRegister.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.Happy_Birthday.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.HideRecords.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.ImportDataFromExcel.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.ImportDataFromExcel_Purchase.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.ImportDataFromExcel_RetailPurchase.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.InterestStatement.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.InvoicePrintingConfiguration.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.ItemCategoryMaster.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.ItemGroupMaster.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.JournalEntry_New.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.JournalRegister.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.JournalVoucherDetails.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.LastIntDiscountDetails.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.LayoutMaster.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.LedgerAccount.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.LedgerAccount_Detailed.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.LedgerMonthlySummary.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.ChangePassword.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.CompanySetting.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.CreateUser.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.MainPage.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.MarketerMaster.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.MaterialCenterMaster.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.MergingItems.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.MergingParty.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.MergingTransport.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.MinMaxBrandDetails.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.MonthlyStockRegister.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.Month_Lock.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.NewCategory.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.CompanyMaster.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.OrderBooking.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.Profit_Margin.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.PurchaseBook_Retail_Custom.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.Registration.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.BranchesSalesDetail.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.SaleBillInvoiceType.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.SaleBook_Retail.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.SaleBook_Retail_Custom.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.SaleReturn_Retail.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.SalesManMaster.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.Salesman_Report.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.SearchDataOther.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.ShowPartyDetailsWithDueDays.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.PurchaseBook_RetailRegister.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.PurchaseReturn_Retail.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.RemovalReason.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.SaleBook_TradingRegister.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.SaleBook_Trading.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.SaleReturn_Trading.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.SaleServiceBook.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.SaleServiceRegister.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.SalesSummaryGraph.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.SchemeMaster.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.SearchCategory.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.SendSMSPage.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.SendWhatsappPage.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.ShowCategoryWiseDetails.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.ShowPartyBalanceSlabwise.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.PartyName.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.ShowPartyMasterSummary.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.PartyTransport.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.BillWiseLedgerSummary.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.PartyWiseLedgerSummary.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.PartyWiseSalePurchase.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.PleaseWait.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.PrintMultiLedger.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.FASDetailPage.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.PurchaseBook.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.PurchaseBookRegister.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.PurchaseOutstandingSlip.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.PurchaseBook_Trading.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.PurchaseReturn.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.PurchaseReturnRegister.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.PurchaseTypeMaster.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.Reporting.ShowReport.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.SaleBook.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.SaleReturn.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.SaleReturnRegister.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.SalesBookRegisters.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.SearchData.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.SearchDataOnOld.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.SelectCompany.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.SendEmail.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.SendingEmailPage.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.SendInternet.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.SendUnicodeSMS.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.ShowAmountLimit.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.ShowBalanceSheetDetails.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.ShowCurrentLedgerBalance.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.OrderBookingRegister.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.ProfitandLoss.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.Properties.Resources.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.ReportSetting.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.ShowNewCashBook.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.ShowPartyMaster.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.ShowPetiDetails.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.ShowReportSummary.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.ShowStockSlabwise.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.ShowWhatsappNoRegister.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.SMSReportRegister.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.StationMaster.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.StockRegister.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.StockStatus.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.StockSummaryVoucherWise.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.StockTransferRegister.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.NewSubParty.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.SupplierMaster.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.SalesTypeMaster.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.TaxCategory.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.SchemeDetailMaster.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.TCSDetails.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.TCSRegister.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.TransferRecord.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.TransportMaster.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.TrialBalance.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.UnitMaster.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.UserAgreement.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.UserLogin.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.VariantDetails.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.VariantMaster.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.ViewPaymentRequest.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.WriteOnCard.resources
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.csproj.GenerateResource.cache
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.csproj.CoreCompileInputs.cache
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.csproj.CopyComplete
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.exe
+D:\SSSProjects\SSS_GST\SSS_GST\SSS\obj\x86\Debug\SSS.pdb

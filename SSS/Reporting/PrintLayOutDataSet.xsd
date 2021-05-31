@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="PrintLayOutDataSet" targetNamespace="http://tempuri.org/PrintLayOutDataSet.xsd" xmlns:mstns="http://tempuri.org/PrintLayOutDataSet.xsd" xmlns="http://tempuri.org/PrintLayOutDataSet.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="PrintLayOutDataSet" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="PrintLayOutDataSet" msprop:Generator_UserDSName="PrintLayOutDataSet">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="LayOutTable" msprop:Generator_TableClassName="LayOutTableDataTable" msprop:Generator_TableVarName="tableLayOutTable" msprop:Generator_TablePropName="LayOutTable" msprop:Generator_RowDeletingName="LayOutTableRowDeleting" msprop:Generator_RowChangingName="LayOutTableRowChanging" msprop:Generator_RowEvHandlerName="LayOutTableRowChangeEventHandler" msprop:Generator_RowDeletedName="LayOutTableRowDeleted" msprop:Generator_UserTableName="LayOutTable" msprop:Generator_RowChangedName="LayOutTableRowChanged" msprop:Generator_RowEvArgName="LayOutTableRowChangeEvent" msprop:Generator_RowClassName="LayOutTableRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="HeaderImage" msprop:Generator_ColumnVarNameInTable="columnHeaderImage" msprop:Generator_ColumnPropNameInRow="HeaderImage" msprop:Generator_ColumnPropNameInTable="HeaderImageColumn" msprop:Generator_UserColumnName="HeaderImage" type="xs:base64Binary" minOccurs="0" />
+              <xs:element name="CompanyName" msprop:Generator_ColumnVarNameInTable="columnCompanyName" msprop:Generator_ColumnPropNameInRow="CompanyName" msprop:Generator_ColumnPropNameInTable="CompanyNameColumn" msprop:Generator_UserColumnName="CompanyName" type="xs:string" minOccurs="0" />
+              <xs:element name="UserName" msprop:Generator_ColumnVarNameInTable="columnUserName" msprop:Generator_ColumnPropNameInRow="UserName" msprop:Generator_ColumnPropNameInTable="UserNameColumn" msprop:Generator_UserColumnName="UserName" type="xs:string" minOccurs="0" />
+              <xs:element name="HeaderLogo" msprop:Generator_ColumnVarNameInTable="columnHeaderLogo" msprop:Generator_ColumnPropNameInRow="HeaderLogo" msprop:Generator_ColumnPropNameInTable="HeaderLogoColumn" msprop:Generator_UserColumnName="HeaderLogo" type="xs:base64Binary" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
